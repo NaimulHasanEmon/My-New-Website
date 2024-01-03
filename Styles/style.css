@@ -2,4 +2,17 @@ div{
     background-color: tomato;
     padding: 10px;
     margin-bottom: 10px;
+    border: 8px solid aquamarine;
+}
+#new{
+    text-align: center;
+    padding-top: 10px;
+    color: rgb(219, 206, 182);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    height: 150px;
+    border: 10px inset midnightblue;
+    box-shadow: 10px 10px 10px greenyellow;
+    background-image: url('../306833628_2703640759780184_7411314824712096970_n.jpg');
+    background-size: contain;
 }
