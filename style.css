@@ -13,7 +13,7 @@ div{
     height: 150px;
     border: 10px inset midnightblue;
     box-shadow: 10px 10px 10px greenyellow;
-    background-image: url('../306833628_2703640759780184_7411314824712096970_n.jpg');
+    background-image: url('306833628_2703640759780184_7411314824712096970_n.jpg');
     background-size: contain;
 }
 #upload{
