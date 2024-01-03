@@ -1,5 +1,5 @@
 div{
-    background-color: tomato;
+    background-color: rgb(178, 185, 160);
     padding: 10px;
     margin-bottom: 10px;
     border: 8px solid aquamarine;
@@ -15,4 +15,14 @@ div{
     box-shadow: 10px 10px 10px greenyellow;
     background-image: url('../306833628_2703640759780184_7411314824712096970_n.jpg');
     background-size: contain;
+}
+#upload{
+    text-decoration: underline wavy;
+}
+li{
+
+    font-size: 20px;
+    text-decoration: dotted underline;
+    font-style: italic;
+    font-family: monospace;
 }
